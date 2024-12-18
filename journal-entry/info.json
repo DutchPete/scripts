@@ -3,8 +3,8 @@
   "identifier": "journal-entry",
   "script": "journal-entry.qml",
   "resources": ["calendar-window.qml"], 
-  "version": "1.7.0",
+  "version": "1.7.1",
   "minAppVersion": "20.4.16",
-  "authors": ["@pbek", "@sanderboom", "@kantrol", "@nico2sh"],
-  "description" : "This script creates menu items and buttons to create or jump to the current date's (or tomorrow's date) journal entry. And formats the title based on a date placeholder. It also allows to open a calendar to choose the date."
+  "authors": ["@DutchPete"],
+  "description" : "This amendment ensure the tab title is corrected immediately without having to go to another note 1st and back. It also eliminates adding the name of the note to the note's 1st line"
 }
